@@ -6,6 +6,8 @@ i decided to deploy this addon on my github so that it gains visibility and help
 
 the addon is not very well optimized but works without a hitch, free to modify it..
 
+INSTALLATION:
+throw the 'braxscan-master' folder into the 'addon' folder
 
 COMMANDS:
 To scan all addons: braxscan all 1 (ingame console)
