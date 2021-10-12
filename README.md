@@ -1,5 +1,8 @@
 # braxscan
-this is backdoor checking system in garry'smod addons
+this is backdoor checking system in garry'smod addons.
+
+original creator : Giraffen93
+permission check modify by Zaros#2502
 
 this script was not made by me but unfortunately i can't find the original owner, it was just edited by Zaros (GCA) to add a permission check when launching braxscan.
 i decided to deploy this addon on my github so that it gains visibility and helps people who have backdoor in their addons.
