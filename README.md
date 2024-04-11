@@ -12,7 +12,7 @@ INSTALLATION:
 throw the 'braxscan-master' folder into the 'addon' folder
 
 COMMANDS:
-To scan all addons: braxscan all 1 (ingame console)
+To scan all addons: braxscan all 1 (web console)
 
 SEE LOGS SCAN : 
 garrysmod\data\braxscan
